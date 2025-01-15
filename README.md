@@ -5,7 +5,7 @@
 
 💞️ I’m looking to collaborate on projects involving AI, web development, cloud computing, and open-source contributions that push the boundaries of technology.
 
-📫 How to reach me: Let’s connect on LinkedIn or shoot me an email at aarondsouza0612@gmail.com
+📫 How to reach me: Let’s connect on [LinkedIn] (https://www.linkedin.com/in/aaron-dsouza-cs/) or shoot me an email at aarondsouza0612@gmail.com
 
 😄 Pronouns: He/Him
 
